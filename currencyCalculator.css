@@ -1,0 +1,43 @@
+body
+{
+    font-size: 200%;
+    background-color: whitesmoke;
+}
+.main
+{
+   text-align: center;
+    
+}
+h1
+{
+    text-align: center;
+}
+
+a
+{
+    text-align: justify;
+}
+select
+{
+    text-align: justify;
+    
+}
+amount
+{
+    border-radius: 15px;
+}
+button
+{
+    background-color: blue;
+    color: white;
+    border-radius: 10%;
+    font-size: 70%;
+}
+input
+{
+    border-color: black;
+}
+input:hover
+{
+    border-color: rgb(1, 142, 189);
+}
